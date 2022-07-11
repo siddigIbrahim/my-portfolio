@@ -7,9 +7,14 @@
   <v-container>
     <v-row class="d-flex justify-center">
         <v-col cols="12" class="col-sm-8 col-md-6 d-flex justify-space-around">
-            <v-icon large class="footer-icon">mdi-linkedin</v-icon>
-            <v-icon large class="footer-icon">mdi-github</v-icon>
-            <v-icon large class="footer-icon">mdi-email</v-icon>
+            <a href="mailto:siddigi015@gmail.com">
+                <v-icon large class="footer-icon">mdi-email</v-icon>
+                
+                </a>
+                <a href="http://www.linkedin.com/in/siddig-ibrahim-ba5664242"><v-icon large class="footer-icon">mdi-linkedin</v-icon></a>
+            
+            <a href="http://www.github.com/siddigIbrahim"><v-icon large class="footer-icon">mdi-github</v-icon></a>
+            
         </v-col>
     </v-row>
      <v-row class="d-flex justify-center">
@@ -58,5 +63,8 @@ export default {
 }
 .footer-icon:hover{
    color: #3bb5e9 !important;
+}
+a{
+    text-decoration: none;
 }
 </style>

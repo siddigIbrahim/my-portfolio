@@ -53,6 +53,7 @@
        <v-btn
        class="project-btn"
        elevation="0"
+
         
         
       >
@@ -62,6 +63,7 @@
       <v-btn
        class="project-btn"
        elevation="0"
+       href="https://github.com/siddigIbrahim/car-dealership.git"
         
         
       >
@@ -120,6 +122,7 @@
          <v-btn
        class="project-btn"
        elevation="0"
+       href="https://siddigibrahim.github.io/rock-paper-scissors/"
         
         
       >
@@ -129,7 +132,7 @@
       <v-btn
        class="project-btn"
        elevation="0"
-        
+        href="https://github.com/siddigIbrahim/rock-paper-scissors.git"
         
       >
         github ripo
@@ -187,6 +190,7 @@
          <v-btn
        class="project-btn"
        elevation="0"
+       href="https://siddigibrahim.github.io/streaming/"
         
         
       >
@@ -196,7 +200,7 @@
       <v-btn
        class="project-btn"
        elevation="0"
-        
+        href="https://github.com/siddigIbrahim/streaming.git"
         
       >
         github ripo

@@ -140,7 +140,7 @@
      
      data-aos-easing="linear"
      data-aos-duration="800">
-            <v-btn  class="about-btn" elevation="0"> <a href=""></a> download CV</v-btn>
+            <v-btn  class="about-btn" elevation="0"> <a href="../assets/cv.pdf" download>download CV</a> </v-btn>
         </v-col>
     </v-row>
 
@@ -209,6 +209,9 @@ img{
     align-items: center;
     
     
+}
+a{
+  text-decoration: none;
 }
 .name-span{
     color: #fc1600;
